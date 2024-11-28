@@ -1,0 +1,11 @@
+body {
+    background-color: #32a852;
+    font-family: "Kanit", sans-serif;
+    font-weight: 300;
+    font-style: normal;
+    text-align: center;
+    margin: auto;
+    width: 50%;
+    border: 3px solid green;
+    padding: 10px;
+}
